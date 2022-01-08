@@ -370,6 +370,10 @@ button[type="submit"] {
     background-color: #e84610;
 }
 
+/* ------------------------google maps */
+
+div #map {min-height: 360px;}
+
 /* ------------------------Medua Queries */
 
 @media(min-width: 992px) {
